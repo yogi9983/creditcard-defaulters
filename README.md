@@ -10,3 +10,8 @@ correlation heat checking correlation between features
 
 feature scaling=   inorder to scale down our data to  standard normal distribution used standard scalar and done train test split
 ![credit3](https://user-images.githubusercontent.com/90147513/153142818-488c7c50-6529-49d2-b7b5-a1fcbee01c64.PNG)
+
+
+Here i used guassian naviebayes for one cluster as two culster was created in data clustering part
+![credit4](https://user-images.githubusercontent.com/90147513/153143767-1002f950-3d46-49a1-b8a6-0d4616a39e28.PNG)
+
